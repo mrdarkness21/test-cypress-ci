@@ -1,5 +1,6 @@
 {
     "scripts": {
+        "cy:verify": "cypress verify",
         "test:e2e:run": "cypress run --group 1x-chrome --record --headless --browser chrome"
     },
     "devDependencies": {
