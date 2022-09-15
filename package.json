@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "test:e2e:open": "cypress open"
+    }
+}
